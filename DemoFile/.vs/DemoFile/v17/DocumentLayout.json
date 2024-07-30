@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoFile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34A48FD1-B616-41C6-93DA-F3E4D909BF34}|DemoFile\\DemoFile.csproj|c:\\users\\21521\\onedrive\\desktop\\intern\\intern_interview_ivs\\demofile\\demofile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A48FD1-B616-41C6-93DA-F3E4D909BF34}|DemoFile\\DemoFile.csproj|solutionrelative:demofile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A48FD1-B616-41C6-93DA-F3E4D909BF34}|DemoFile\\DemoFile.csproj|c:\\users\\21521\\onedrive\\desktop\\intern\\intern_interview_ivs\\demofile\\demofile\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A48FD1-B616-41C6-93DA-F3E4D909BF34}|DemoFile\\DemoFile.csproj|solutionrelative:demofile\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoFile\\DemoFile\\Logger.cs",
+              "RelativeDocumentMoniker": "DemoFile\\Logger.cs",
+              "ToolTip": "C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoFile\\DemoFile\\Logger.cs",
+              "RelativeToolTip": "DemoFile\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:25:13.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoFile\\DemoFile\\Program.cs",
+              "RelativeDocumentMoniker": "DemoFile\\Program.cs",
+              "ToolTip": "C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoFile\\DemoFile\\Program.cs",
+              "RelativeToolTip": "DemoFile\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:25:06.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
