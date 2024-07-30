@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{F8453E46-9646-49CB-908E-3C5D61E785EC}|MySqlTest\\MySqlTest.csproj|solutionrelative:mysqltest\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8453E46-9646-49CB-908E-3C5D61E785EC}|MySqlTest\\MySqlTest.csproj|c:\\users\\21521\\onedrive\\desktop\\intern\\intern_interview_ivs\\demomysql\\mysqltest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{F8453E46-9646-49CB-908E-3C5D61E785EC}|MySqlTest\\MySqlTest.csproj|C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoMySQL\\mysqltest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{F8453E46-9646-49CB-908E-3C5D61E785EC}|MySqlTest\\MySqlTest.csproj|solutionrelative:mysqltest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8453E46-9646-49CB-908E-3C5D61E785EC}|MySqlTest\\MySqlTest.csproj|c:\\users\\21521\\onedrive\\desktop\\intern\\intern_interview_ivs\\demomysql\\mysqltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8453E46-9646-49CB-908E-3C5D61E785EC}|MySqlTest\\MySqlTest.csproj|C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoMySQL\\mysqltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8453E46-9646-49CB-908E-3C5D61E785EC}|MySqlTest\\MySqlTest.csproj|solutionrelative:mysqltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -47,8 +47,7 @@
               "RelativeToolTip": "MySqlTest\\App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-07-30T20:53:54.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T20:53:54.581Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "MySqlTest\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T20:53:46.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T20:53:46.02Z"
             }
           ]
         }

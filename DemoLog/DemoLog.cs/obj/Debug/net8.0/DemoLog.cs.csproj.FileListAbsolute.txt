@@ -1,0 +1,14 @@
+C:\Users\21521\source\repos\DemoLog.cs\DemoLog.cs\bin\Debug\net8.0\DemoLog.cs.exe
+C:\Users\21521\source\repos\DemoLog.cs\DemoLog.cs\bin\Debug\net8.0\DemoLog.cs.deps.json
+C:\Users\21521\source\repos\DemoLog.cs\DemoLog.cs\bin\Debug\net8.0\DemoLog.cs.runtimeconfig.json
+C:\Users\21521\source\repos\DemoLog.cs\DemoLog.cs\bin\Debug\net8.0\DemoLog.cs.dll
+C:\Users\21521\source\repos\DemoLog.cs\DemoLog.cs\bin\Debug\net8.0\DemoLog.cs.pdb
+C:\Users\21521\source\repos\DemoLog.cs\DemoLog.cs\obj\Debug\net8.0\DemoLog.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21521\source\repos\DemoLog.cs\DemoLog.cs\obj\Debug\net8.0\DemoLog.cs.AssemblyInfoInputs.cache
+C:\Users\21521\source\repos\DemoLog.cs\DemoLog.cs\obj\Debug\net8.0\DemoLog.cs.AssemblyInfo.cs
+C:\Users\21521\source\repos\DemoLog.cs\DemoLog.cs\obj\Debug\net8.0\DemoLog.cs.csproj.CoreCompileInputs.cache
+C:\Users\21521\source\repos\DemoLog.cs\DemoLog.cs\obj\Debug\net8.0\DemoLog.cs.dll
+C:\Users\21521\source\repos\DemoLog.cs\DemoLog.cs\obj\Debug\net8.0\refint\DemoLog.cs.dll
+C:\Users\21521\source\repos\DemoLog.cs\DemoLog.cs\obj\Debug\net8.0\DemoLog.cs.pdb
+C:\Users\21521\source\repos\DemoLog.cs\DemoLog.cs\obj\Debug\net8.0\DemoLog.cs.genruntimeconfig.cache
+C:\Users\21521\source\repos\DemoLog.cs\DemoLog.cs\obj\Debug\net8.0\ref\DemoLog.cs.dll
