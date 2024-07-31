@@ -7,9 +7,14 @@ using MySql.Data.MySqlClient;
 
 namespace MySqlTest
 {
-    public class UserRepository(MySqlConnection connection) : IUserRepository
+    public class UserRepository : IUserRepository
     {
-        private readonly MySqlConnection _connection = connection ?? throw new ArgumentNullException(nameof(connection));
+        private readonly MySqlConnection _connection;
+
+        public UserRepository(MySqlConnection connection)
+        {
+            _connection = connection ?? throw new ArgumentNullException(nameof(connection));
+        }
 
         public void CreateTable()
         {
@@ -25,7 +30,6 @@ namespace MySqlTest
             Console.WriteLine("Table 'Users' created.");
         }
 
-        // Chèn người dùng mới vào bảng Users
         public void InsertUser(string username, string email)
         {
             if (string.IsNullOrWhiteSpace(username))
@@ -47,28 +51,25 @@ namespace MySqlTest
                 Console.WriteLine("Insert operation failed.");
         }
 
-        // Lấy tất cả người dùng
         public IEnumerable<User> GetAllUsers()
         {
             const string selectQuery = "SELECT * FROM Users";
 
-            using (var command = new MySqlCommand(selectQuery, _connection))
-            using (var reader = command.ExecuteReader())
+            using var command = new MySqlCommand(selectQuery, _connection);
+            using var reader = command.ExecuteReader();
+            var users = new List<User>();
+
+            while (reader.Read())
             {
-                var users = new List<User>();
-
-                while (reader.Read())
+                users.Add(new User
                 {
-                    users.Add(new User
-                    {
-                        Id = Convert.ToInt32(reader["Id"]),
-                        Username = reader["Username"].ToString(),
-                        Email = reader["Email"].ToString()
-                    });
-                }
-
-                return users;
+                    Id = Convert.ToInt32(reader["Id"]),
+                    Username = reader["Username"].ToString(),
+                    Email = reader["Email"].ToString()
+                });
             }
+
+            return users;
         }
     }
 }

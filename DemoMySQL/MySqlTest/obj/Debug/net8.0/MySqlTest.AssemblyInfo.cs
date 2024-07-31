@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MySqlTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92ad41af5a7cf41bd29f8304a418c2307fc96f36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ef62fa9413f25c60308a50d7d163079905754ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("MySqlTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MySqlTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

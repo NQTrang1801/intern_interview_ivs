@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoMySQL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8453E46-9646-49CB-908E-3C5D61E785EC}|MySqlTest\\MySqlTest.csproj|c:\\users\\21521\\onedrive\\desktop\\intern\\intern_interview_ivs\\demomysql\\mysqltest\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8453E46-9646-49CB-908E-3C5D61E785EC}|MySqlTest\\MySqlTest.csproj|c:\\users\\21521\\onedrive\\desktop\\intern\\intern_interview_ivs\\demomysql\\mysqltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8453E46-9646-49CB-908E-3C5D61E785EC}|MySqlTest\\MySqlTest.csproj|solutionrelative:mysqltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8453E46-9646-49CB-908E-3C5D61E785EC}|MySqlTest\\MySqlTest.csproj|C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoMySQL\\mysqltest\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8453E46-9646-49CB-908E-3C5D61E785EC}|MySqlTest\\MySqlTest.csproj|solutionrelative:mysqltest\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8453E46-9646-49CB-908E-3C5D61E785EC}|MySqlTest\\MySqlTest.csproj|C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoMySQL\\mysqltest\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8453E46-9646-49CB-908E-3C5D61E785EC}|MySqlTest\\MySqlTest.csproj|solutionrelative:mysqltest\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8453E46-9646-49CB-908E-3C5D61E785EC}|MySqlTest\\MySqlTest.csproj|C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoMySQL\\mysqltest\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8453E46-9646-49CB-908E-3C5D61E785EC}|MySqlTest\\MySqlTest.csproj|solutionrelative:mysqltest\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8453E46-9646-49CB-908E-3C5D61E785EC}|MySqlTest\\MySqlTest.csproj|C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoMySQL\\mysqltest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{F8453E46-9646-49CB-908E-3C5D61E785EC}|MySqlTest\\MySqlTest.csproj|solutionrelative:mysqltest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8453E46-9646-49CB-908E-3C5D61E785EC}|MySqlTest\\MySqlTest.csproj|C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoMySQL\\mysqltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8453E46-9646-49CB-908E-3C5D61E785EC}|MySqlTest\\MySqlTest.csproj|solutionrelative:mysqltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8453E46-9646-49CB-908E-3C5D61E785EC}|MySqlTest\\MySqlTest.csproj|C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoMySQL\\mysqltest\\mysqltest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8453E46-9646-49CB-908E-3C5D61E785EC}|MySqlTest\\MySqlTest.csproj|solutionrelative:mysqltest\\mysqltest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +34,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoMySQL\\MySqlTest\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MySqlTest\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoMySQL\\MySqlTest\\UserRepository.cs",
+              "RelativeToolTip": "MySqlTest\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:02:36.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoMySQL\\MySqlTest\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "MySqlTest\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoMySQL\\MySqlTest\\DatabaseConnection.cs",
+              "RelativeToolTip": "MySqlTest\\DatabaseConnection.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:00:10.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MySqlTest",
+              "DocumentMoniker": "C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoMySQL\\MySqlTest\\MySqlTest.csproj",
+              "RelativeDocumentMoniker": "MySqlTest\\MySqlTest.csproj",
+              "ToolTip": "C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoMySQL\\MySqlTest\\MySqlTest.csproj",
+              "RelativeToolTip": "MySqlTest\\MySqlTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T01:59:41.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoMySQL\\MySqlTest\\IUserRepository.cs",
               "RelativeDocumentMoniker": "MySqlTest\\IUserRepository.cs",
               "ToolTip": "C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoMySQL\\MySqlTest\\IUserRepository.cs",
               "RelativeToolTip": "MySqlTest\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T20:53:56.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T20:53:56.238Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoMySQL\\MySqlTest\\App.config",
               "RelativeDocumentMoniker": "MySqlTest\\App.config",
@@ -51,15 +98,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoMySQL\\MySqlTest\\Program.cs",
               "RelativeDocumentMoniker": "MySqlTest\\Program.cs",
               "ToolTip": "C:\\Users\\21521\\OneDrive\\Desktop\\intern\\intern_interview_ivs\\DemoMySQL\\MySqlTest\\Program.cs",
               "RelativeToolTip": "MySqlTest\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T20:53:46.02Z"
+              "WhenOpened": "2024-07-30T20:53:46.02Z",
+              "EditorCaption": ""
             }
           ]
         }
